@@ -23,3 +23,21 @@ As a result, our SA-Net-v2 outperforms the original version of SA-Net by a large
     </em>
 </p>
 
+------
+
+# Predictions
+
+Download the saliency prediction maps at [Google Drive]().
+
+------
+
+# Inference
+
+Download the pretrained model at [Google Drive]().
+
+------
+
+# Contact 
+
+Please feel free to drop an e-mail to yi.zhang1@insa-rennes.fr for any questions. 
+
