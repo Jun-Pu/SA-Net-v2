@@ -27,13 +27,13 @@ As a result, our SA-Net-v2 outperforms the original version of SA-Net by a large
 
 # Predictions
 
-Download the saliency prediction maps at [Google Drive]().
+Download the saliency prediction maps at [Google Drive](https://drive.google.com/file/d/1ft2HNDPEDAGf9R0jMZ2Hvw4Ty41dTNVX/view?usp=sharing).
 
 ------
 
 # Inference
 
-Download the pretrained model at [Google Drive]().
+Download the pretrained model at [Google Drive](https://drive.google.com/file/d/1mEw6Ln3cS7X88IwaMkixZqTIoOGxGG72/view?usp=sharing).
 
 ------
 
