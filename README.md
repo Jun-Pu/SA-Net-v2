@@ -19,7 +19,7 @@ As a result, our SA-Net-v2 outperforms the original version of SA-Net by a large
 <p align="center">
     <img src="./Figures/fig_results.jpg" width="90%"/> <br />
     <em> 
-    Figure 1: Quantitative results for different models on three benchmark datasets. The best scores are in boldface. We train and test our SA-Net-v2 with the settings that are consistent with ERNet, which is the state-of-the-art model at present. ⋆ indicates tradition methods. - denotes no available result. ↑ indicates the higher the score the better, and vice versa for ↓.
+    Figure 1: Quantitative results for different models on three benchmark datasets. The best scores are in boldface. We train and test our SA-Net-v2 with the settings that are consistent with [SA-Net](https://github.com/PanoAsh/SA-Net), which is the state-of-the-art model at present. ⋆ indicates tradition methods. - denotes no available result. ↑ indicates the higher the score the better, and vice versa for ↓.
     </em>
 </p>
 
