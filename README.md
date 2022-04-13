@@ -33,9 +33,3 @@ Download the saliency prediction maps at [Google Drive](https://drive.google.com
 
 Download the pretrained model at [Google Drive](https://drive.google.com/file/d/1mEw6Ln3cS7X88IwaMkixZqTIoOGxGG72/view?usp=sharing).
 
-------
-
-# Contact 
-
-Please feel free to drop an e-mail to yi.zhang1@insa-rennes.fr for any questions. 
-
