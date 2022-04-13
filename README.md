@@ -10,8 +10,6 @@ In this work, we further improve the [SA-Net](https://github.com/PanoAsh/SA-Net)
 
 As a result, our SA-Net-v2 outperforms the original version of SA-Net by a large margin.
 
-:running: :running: :running: ***KEEP UPDATING***.
-
 ------
 
 # Results
